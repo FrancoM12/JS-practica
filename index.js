@@ -5,7 +5,8 @@ const firstname = "Franco"
 const lastname = "Mallea"
 
 // declaramos la variable para mi edad
-var age = 27
+var age = 27 
+//sdasdasdadsds
 
 // concatenamos las variables e imprimimos en la consola
 console.log(firstname + " " + lastname + " tiene " + age + " años")
